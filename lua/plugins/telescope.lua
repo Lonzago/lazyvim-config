@@ -17,6 +17,8 @@ return {
   config = function(opts)
     require('telescope').setup(opts)
     require('telescope').load_extension('fzf')
+    -- require('telescope').load_extension('telescope-fzf-native') 
+    -- require('telescope').load_extension('telescope-file-browser')
   end,
   keys = {
     {
