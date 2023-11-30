@@ -21,7 +21,7 @@ return {
 			"json",
 
 			"typescript",
-			"typoscript"
+			"typoscript",
 
 			"markdown_inline",
 			"vim",
